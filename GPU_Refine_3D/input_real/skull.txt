@@ -1,0 +1,24 @@
+Title	:	Mouse skull (from micro-CT)
+Author	:	MarkU
+License	:	Creative Commons - Attribution
+Date	:	2012-03-28T15:46:06
+Category	:	learning
+Subcategory	:	biology
+Tags	:	3DanimalMakerBot_Replicator2modelmouseObjet_24skullStratasys_Dimension_1200ZCorp_ZPrinter_450
+Thing ID	:	20200 (Thingiverse)
+File ID	:	63788 (Download)
+#Vertices	:	195452
+#Faces	:	392040
+#Components	:	177
+Euler	:	-568
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	False
+Total area	:	1778.17

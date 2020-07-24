@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPU_Refine_3D", "GPU_Refine_3D\GPU_Refine_3D.vcxproj", "{852F6789-27BD-4F8E-B077-5BCB113226BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|Win32.Build.0 = Debug|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|x64.ActiveCfg = Debug|x64
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|x64.Build.0 = Debug|x64
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Debug|x86.Build.0 = Debug|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|Win32.ActiveCfg = Release|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|Win32.Build.0 = Release|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|x64.ActiveCfg = Release|x64
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|x64.Build.0 = Release|x64
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|x86.ActiveCfg = Release|Win32
+		{852F6789-27BD-4F8E-B077-5BCB113226BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D94ED62-DDD3-4C8B-8DB4-DF6CE5FFB5E0}
+	EndGlobalSection
+EndGlobal

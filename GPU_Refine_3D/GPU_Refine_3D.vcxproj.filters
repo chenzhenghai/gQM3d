@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="CudaRefine.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaMesh.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaSplitEncseg.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaThrust.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaInsertPoint.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaSplitEncsubface.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaSplitBadtet.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaCompactMesh.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaAnimation.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaSplitBadElement.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaInsertPointNew.cu">
+      <Filter>CUDA</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="InputGenerator">
+      <UniqueIdentifier>{2db22951-1d91-4561-82e2-637403bfe973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TetGen">
+      <UniqueIdentifier>{61654f9c-37ae-44de-9e3a-e9ed562c2ec8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Predicates">
+      <UniqueIdentifier>{59a68a72-795b-4133-8328-3f09aaad6803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Experiment">
+      <UniqueIdentifier>{3f944b67-a50d-4e96-861b-9270ccd6a97f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mesh">
+      <UniqueIdentifier>{b774ba64-277c-4caa-99c9-aedc93901a3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CUDA">
+      <UniqueIdentifier>{5805f4fd-877a-4765-a98c-fecbd629f07c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewer">
+      <UniqueIdentifier>{fc4aca53-d873-460d-95d0-150bc60abaf6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InputGenerator.h">
+      <Filter>InputGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="tetgen.h">
+      <Filter>TetGen</Filter>
+    </ClInclude>
+    <ClInclude Include="InputPredicates.h">
+      <Filter>Predicates</Filter>
+    </ClInclude>
+    <ClInclude Include="Experiment.h">
+      <Filter>Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshChecker.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshPredicates.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshReconstruct.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaRefine.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshStructure.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaMesh.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaSplitEncseg.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaThrust.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaInsertPoint.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaPredicates.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaSplitEncsubface.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaSplitBadtet.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaCompactMesh.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer.h">
+      <Filter>Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="Experiment_CGAL.h">
+      <Filter>Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshRefine.h" />
+    <ClInclude Include="CudaAnimation.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaSplitBadElement.h">
+      <Filter>CUDA</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InputGenerator.cpp">
+      <Filter>InputGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="tetgen.cpp">
+      <Filter>TetGen</Filter>
+    </ClCompile>
+    <ClCompile Include="predicates.cpp">
+      <Filter>Predicates</Filter>
+    </ClCompile>
+    <ClCompile Include="InputPredicates.cpp">
+      <Filter>Predicates</Filter>
+    </ClCompile>
+    <ClCompile Include="Experiment.cpp">
+      <Filter>Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshChecker.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshReconstruct.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer.cpp">
+      <Filter>Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="Experiment_CGAL.cpp">
+      <Filter>Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshRefine.cpp" />
+  </ItemGroup>
+</Project>

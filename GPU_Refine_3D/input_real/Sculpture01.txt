@@ -1,0 +1,26 @@
+Title	:	Parametric Sculpture 01
+Author	:	MCompeau
+License	:	Creative Commons - Attribution - Non-Commercial
+Date	:	2012-04-10T07:54:16
+Category	:	art
+Subcategory	:	math-art
+Tags	:	sculpture
+Thing ID	:	21126 (Thingiverse)
+File ID	:	65942 (Download)
+
+#Vertices	:	377154
+#Faces	:	754688
+#Components	:	1
+Euler	:	-190
+Genus	:	96
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	17781.3
