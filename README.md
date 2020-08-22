@@ -20,7 +20,7 @@ void <b>refineInputFileOnGPU</b>(
 &nbsp;&nbsp;&nbsp;&nbsp; char* outmesh,  
 &nbsp;&nbsp;&nbsp;&nbsp; char* outdata)
 
-This routine calls both TetGen (GPU_Refine_3D/tetgen.h and GPU_Refine_3D/tetgen.cpp) and the GPU refinement pipeline <b>GPU_Refine_3D</b> (GPU_Refine_3D/CudaRefine.h and GPU_Refine_3D/CudaRefine.cu) to refine the input mesh, and output the quality mesh and its statistic.
+This routine calls both TetGen (GPU_Refine_3D/tetgen.h and GPU_Refine_3D/tetgen.cpp) and the GPU refinement pipeline (GPU_Refine_3D/CudaRefine.h and GPU_Refine_3D/CudaRefine.cu) to refine the input mesh, and output the quality mesh and its statistic.
 
 char* infile:  
 The path for input mesh.
